@@ -1,0 +1,2 @@
+Prefix plugins/WeightedMinkowski/example/
+Plugin WeightedMinkowski inputfile table.qza outputfile beta_diversity.qza
